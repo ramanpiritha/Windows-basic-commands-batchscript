@@ -63,11 +63,6 @@ Move the "MyLab" directory to the "Documents" folder.
 
 ![image](https://github.com/ramanpiritha/Windows-basic-commands-batchscript/assets/147084116/2774e221-e0ee-4981-9903-2466fa0e5b29)
 
-
-## COMMAND AND OUTPUT
-
-mv Myfile.txt %userprofile%\Documents
-
 # RESULT:
 The commands/batch files are executed successfully.
 
